@@ -1,0 +1,20 @@
+C:\Users\Dunk\PlayerIO\Flash\NewGame\Serverside Code\Game Code\bin\Debug\newGame.dll
+C:\Users\Dunk\PlayerIO\Flash\NewGame\Serverside Code\Game Code\bin\Debug\newGame.pdb
+C:\Users\Dunk\PlayerIO\Flash\NewGame\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\Dunk\PlayerIO\Flash\NewGame\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\Dunk\PlayerIO\Flash\NewGame\Serverside Code\Game Code\obj\Debug\newGame.dll
+C:\Users\Dunk\PlayerIO\Flash\NewGame\Serverside Code\Game Code\obj\Debug\newGame.pdb
+C:\Users\Dunk\PlayerIO\Flash\TicTacToe\Serverside Code\Game Code\bin\Debug\RockPaperScizzors.dll
+C:\Users\Dunk\PlayerIO\Flash\TicTacToe\Serverside Code\Game Code\bin\Debug\RockPaperScizzors.pdb
+C:\Users\Dunk\PlayerIO\Flash\TicTacToe\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\Dunk\PlayerIO\Flash\TicTacToe\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\Dunk\PlayerIO\Flash\TicTacToe\Serverside Code\Game Code\obj\Debug\Game Code.VS2010.csprojResolveAssemblyReference.cache
+C:\Users\Dunk\PlayerIO\Flash\TicTacToe\Serverside Code\Game Code\obj\Debug\RockPaperScizzors.dll
+C:\Users\Dunk\PlayerIO\Flash\TicTacToe\Serverside Code\Game Code\obj\Debug\RockPaperScizzors.pdb
+C:\Users\Dunk\PlayerIO\Flash\RockPaperScizzors\Serverside Code\Game Code\bin\Debug\RockPaperScizzors.dll
+C:\Users\Dunk\PlayerIO\Flash\RockPaperScizzors\Serverside Code\Game Code\bin\Debug\RockPaperScizzors.pdb
+C:\Users\Dunk\PlayerIO\Flash\RockPaperScizzors\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\Dunk\PlayerIO\Flash\RockPaperScizzors\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\Dunk\PlayerIO\Flash\RockPaperScizzors\Serverside Code\Game Code\obj\Debug\Game Code.VS2010.csprojResolveAssemblyReference.cache
+C:\Users\Dunk\PlayerIO\Flash\RockPaperScizzors\Serverside Code\Game Code\obj\Debug\RockPaperScizzors.dll
+C:\Users\Dunk\PlayerIO\Flash\RockPaperScizzors\Serverside Code\Game Code\obj\Debug\RockPaperScizzors.pdb

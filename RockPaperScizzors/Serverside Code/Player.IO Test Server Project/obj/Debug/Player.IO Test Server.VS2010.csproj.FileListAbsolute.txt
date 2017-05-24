@@ -1,0 +1,30 @@
+C:\Users\Dunk\PlayerIO\Flash\NewGame\Serverside Code\Player.IO Test Server Project\obj\Debug\Player.IO Test Server.VS2010.csprojResolveAssemblyReference.cache
+C:\Users\Dunk\PlayerIO\Flash\NewGame\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.exe
+C:\Users\Dunk\PlayerIO\Flash\NewGame\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.pdb
+C:\Users\Dunk\PlayerIO\Flash\NewGame\Serverside Code\Player.IO Test Server Project\bin\Debug\newGame.dll
+C:\Users\Dunk\PlayerIO\Flash\NewGame\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO Development Server.exe
+C:\Users\Dunk\PlayerIO\Flash\NewGame\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\Dunk\PlayerIO\Flash\NewGame\Serverside Code\Player.IO Test Server Project\bin\Debug\newGame.pdb
+C:\Users\Dunk\PlayerIO\Flash\NewGame\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\Dunk\PlayerIO\Flash\NewGame\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.exe
+C:\Users\Dunk\PlayerIO\Flash\NewGame\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.pdb
+C:\Users\Dunk\PlayerIO\Flash\TicTacToe\Serverside Code\Player.IO Test Server Project\obj\Debug\Player.IO Test Server.VS2010.csprojResolveAssemblyReference.cache
+C:\Users\Dunk\PlayerIO\Flash\TicTacToe\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.exe
+C:\Users\Dunk\PlayerIO\Flash\TicTacToe\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.pdb
+C:\Users\Dunk\PlayerIO\Flash\TicTacToe\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.exe
+C:\Users\Dunk\PlayerIO\Flash\TicTacToe\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.pdb
+C:\Users\Dunk\PlayerIO\Flash\TicTacToe\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO Development Server.exe
+C:\Users\Dunk\PlayerIO\Flash\TicTacToe\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\Dunk\PlayerIO\Flash\TicTacToe\Serverside Code\Player.IO Test Server Project\bin\Debug\RockPaperScizzors.dll
+C:\Users\Dunk\PlayerIO\Flash\TicTacToe\Serverside Code\Player.IO Test Server Project\bin\Debug\RockPaperScizzors.pdb
+C:\Users\Dunk\PlayerIO\Flash\TicTacToe\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\Dunk\PlayerIO\Flash\RockPaperScizzors\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.exe
+C:\Users\Dunk\PlayerIO\Flash\RockPaperScizzors\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.pdb
+C:\Users\Dunk\PlayerIO\Flash\RockPaperScizzors\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO Development Server.exe
+C:\Users\Dunk\PlayerIO\Flash\RockPaperScizzors\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\Dunk\PlayerIO\Flash\RockPaperScizzors\Serverside Code\Player.IO Test Server Project\bin\Debug\RockPaperScizzors.dll
+C:\Users\Dunk\PlayerIO\Flash\RockPaperScizzors\Serverside Code\Player.IO Test Server Project\bin\Debug\RockPaperScizzors.pdb
+C:\Users\Dunk\PlayerIO\Flash\RockPaperScizzors\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\Dunk\PlayerIO\Flash\RockPaperScizzors\Serverside Code\Player.IO Test Server Project\obj\Debug\Player.IO Test Server.VS2010.csprojResolveAssemblyReference.cache
+C:\Users\Dunk\PlayerIO\Flash\RockPaperScizzors\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.exe
+C:\Users\Dunk\PlayerIO\Flash\RockPaperScizzors\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.pdb
